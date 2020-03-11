@@ -9,6 +9,9 @@
         <div class="col-lg-4"></div>
 
         <div class="col-lg-4">
+
+            Her er et link til <a class="mb-4 mt-4" href="FrontController?height=170&weight=65&taget=resultat">resultatsiden</a>
+
             <form action="FrontController" method="post">
 
                 <input type="hidden" name="taget" value="resultat"/>
